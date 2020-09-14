@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://i.giphy.com/media/W6dMBdAdBgdcObSE5E/giphy.webp)
+
+I am Interfiber, I rust programs and crates to make peoples life easier
 
 <!--
 **Interfiber/Interfiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
