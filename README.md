@@ -1,18 +1,15 @@
+<!-- Provided by giphy https://giphy.com/gifs/hello-cross-stitch-cute-W6dMBdAdBgdcObSE5E -->
 ![](https://i.giphy.com/media/W6dMBdAdBgdcObSE5E/giphy.webp)
 
-I am Interfiber, I rust programs and crates to make peoples life easier
+I am Interfiber, I rust programs and crates to make peoples life easier, Heres some stuff about me
 
-<!--
-**Interfiber/Interfiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+I Currenly Know
 
-Here are some ideas to get you started:
+<img src="https://cdn.svgporn.com/logos/java.svg" height="200" width="200"><img src="https://cdn.svgporn.com/logos/rust.svg" height="200" width="200"><img src="https://cdn.svgporn.com/logos/javascript.svg" height="200" width="200">
+## About
+I am Interfiber, Heres some things to know about me
+- 🔭 I’m currently working on [taco](https://github.com/Interfiber/taco)
+- 🌱 I’m currently learning some more [rust](https://rust-lang.org)
+- 😄 Pronouns: he/him/his
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
