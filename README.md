@@ -11,7 +11,7 @@ I Currenly Know
 I am Interfiber, Heres some things to know about me
 - 🔭 I’m currently working on [glasses](https://github.com/Interfiber/glasses)
 - 🌱 I’m currently learning some more [rust](https://rust-lang.org)
-- 📬 If you wish to contact me shoot me a issue [here](https://github.com/Interfiber/Interfiber/issues)
+- 📬 If you wish to contact me, shoot me a issue over [here](https://github.com/Interfiber/Interfiber/issues)
 - 😄 Pronouns: he/him/his
 
 ## Github Stats
