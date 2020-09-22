@@ -19,7 +19,7 @@ I am Interfiber, Heres some things to know about me
 ## Github Stats
 
 ![Interfiber's github stats](https://github-readme-stats.vercel.app/api?username=Interfiber&show_icons=true)
-[![Languages I Like to use](https://github-readme-stats.vercel.app/api/top-langs/?username=Interfiber&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### Credits
 Languages images are from [SVGPORN](https://svgporn.com) The github readme stats are from [here](https://github.com/anuraghazra/github-readme-stats) and the gif is from [here](https://giphy.com/gifs/hello-cross-stitch-cute-W6dMBdAdBgdcObSE5E)
