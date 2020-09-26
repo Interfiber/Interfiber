@@ -9,7 +9,7 @@ I Currenly Know
 <img src="https://cdn.svgporn.com/logos/java.svg" height="200" width="200"><img src="https://cdn.svgporn.com/logos/rust.svg" height="200" width="200"><img src="https://cdn.svgporn.com/logos/javascript.svg" height="200" width="200">
 ## About
 I am Interfiber, Heres some things to know about me
-- 🔭 I’m currently working on [glasses](https://github.com/Interfiber/glasses)
+- 🔭 I’m currently working on [pie](https://github.com/Interfiber/pie)
 - 🌱 I’m currently learning French 🇫🇷
 - 👯 I’m looking to collaborate with other rust programmers
 - 🥅 Goals: Contribute more to Open Source projects, and collaborate with people
