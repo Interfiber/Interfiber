@@ -5,9 +5,7 @@
 
 I am Interfiber, I make rust programs and crates to make peoples life easier, Heres some stuff about me
 
-## Profile Views
-<!-- Profile View Counter -->
-![](https://profile-counter.glitch.me/Interfiber/count.svg)
+
 ## Languages
 I Currenly Know
 
