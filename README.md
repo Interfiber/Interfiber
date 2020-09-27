@@ -5,6 +5,9 @@
 
 I am Interfiber, I make rust programs and crates to make peoples life easier, Heres some stuff about me
 
+## Profile Views
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Interfiber" alt="Interfiber" /> </p>
 
 ## Languages
 I Currenly Know
