@@ -1,8 +1,13 @@
 <!-- Provided by giphy https://giphy.com/gifs/hello-cross-stitch-cute-W6dMBdAdBgdcObSE5E -->
+
+
 ![](https://i.giphy.com/media/W6dMBdAdBgdcObSE5E/giphy.webp)
 
 I am Interfiber, I make rust programs and crates to make peoples life easier, Heres some stuff about me
 
+## Profile Views
+<!-- Profile View Counter -->
+![](https://profile-counter.glitch.me/Interfiber/count.svg)
 ## Languages
 I Currenly Know
 
