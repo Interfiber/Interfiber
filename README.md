@@ -19,6 +19,7 @@ I am Interfiber, Heres some things to know about me
 - 🔭 I’m currently working on [pie](https://github.com/Interfiber/pie) and [mountain](https://github.com/Interfiber/mountain)
 - 🌱 I’m currently learning French 🇫🇷
 - 👯 I’m looking to collaborate with other rust programmers
+- 💻 I really like automating things
 - 🥅 Goals: Contribute more to Open Source projects, and collaborate with people
 - 📬 If you wish to contact me, shoot me a issue over [here](https://github.com/Interfiber/Interfiber/issues)
 - 😄 Pronouns: he/him/his
