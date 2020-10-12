@@ -14,7 +14,7 @@ You should checkout [🥧](https://github.com/Interfiber/pie)
 I Currenly Know
 
 <img src="https://cdn.svgporn.com/logos/java.svg" height="200" width="200"><img src="https://cdn.svgporn.com/logos/rust.svg" height="200" width="200"><img src="https://cdn.svgporn.com/logos/javascript.svg" height="200" width="200">
-## Github Trohpys
+## Github Trophys
 ![](https://github-profile-trophy.vercel.app/?username=Interfiber)
 ## About
 I am Interfiber, Heres some things to know about me
