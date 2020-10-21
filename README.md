@@ -5,7 +5,7 @@
 
 I am Interfiber, I make rust programs and crates to make peoples life easier, Heres some stuff about me
 
-You should checkout [🥧](https://github.com/Interfiber/pie)
+You should checkout [🧇](https://github.com/Interfiber/waffle)
 ## Profile Views
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Interfiber" alt="Interfiber" /> </p>
@@ -30,5 +30,6 @@ I am Interfiber, Heres some things to know about me
 
 ![Interfiber's github stats](https://github-readme-stats.vercel.app/api?username=Interfiber&show_icons=true)
 
+![Interfiber's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Interfiber)
 #### CREDITS
 The gif is from [here](https://giphy.com/gifs/hello-cross-stitch-cute-W6dMBdAdBgdcObSE5E).
