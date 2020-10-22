@@ -18,8 +18,8 @@ I Currenly Know
 ![](https://github-profile-trophy.vercel.app/?username=Interfiber)
 ## About
 I am Interfiber, Heres some things to know about me
-- 🔭 I’m currently working on [pie](https://github.com/Interfiber/pie) and [mountain](https://github.com/Interfiber/mountain)
-- 🌱 I’m currently learning French 🇫🇷
+- 🔭 I’m currently working on [waffle](https://github.com/Interfiber/waffle) and sometimes [mountain](https://github.com/Interfiber/mountain)
+- 🌱 I’m currently learning more about riust OOP
 - 👯 I’m looking to collaborate with other rust programmers
 - 💻 I really like automating things
 - 🥅 Goals: Contribute more to Open Source projects, and collaborate with people
