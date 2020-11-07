@@ -15,8 +15,7 @@ I Currenly Know
 ![](https://github-profile-trophy.vercel.app/?username=Interfiber)
 ## About
 I am Interfiber, Heres some things to know about me
-- 🔭 I’m currently working on [maple](https://github.com/Interfiber/maple).
-- 🌱 I’m currently learning how to use C#
+- 🔭 I’m currently working on [Yet Another Text Adventure Game](https://github.com/Interfiber/yatag).
 - 👯 I’m looking to collaborate with other rust programmers
 - 💻 I really like automating things
 - 🥅 Goals: Contribute more to Open Source projects, and collaborate with people
