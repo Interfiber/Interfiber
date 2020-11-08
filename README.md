@@ -5,8 +5,6 @@
 
 I am Interfiber, I make rust programs and crates to make peoples life easier, Heres some stuff about me
 
-You should checkout [🧇](https://github.com/Interfiber/waffle)
-
 ## Languages
 I Currenly Know
 
