@@ -1,6 +1,6 @@
 ![](https://i.giphy.com/media/W6dMBdAdBgdcObSE5E/giphy.webp)
 
-I am Interfiber, I make rust programs and crates to make peoples life easier, Heres some stuff about me
+I am Interfiber, I make programs and rust crates to make peoples life easier, Heres some stuff about me
 
 ## Languages
 I Currenly Know
