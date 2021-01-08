@@ -14,7 +14,7 @@ I am Interfiber, Heres some things to know about me
 - 💻 I really like automating things
 - 🥅 Goals: Contribute more to Open Source projects, and collaborate with people
 - 📬 If you wish to contact me, shoot me a issue over [here](https://github.com/Interfiber/Interfiber/issues)
-- 😄 Pronouns: they/them
+- 😄 Pronouns: [they/them](https://pronoun.is/they/.../themselves)
 
 #### CREDITS
 The gif is from [here](https://giphy.com/gifs/hello-cross-stitch-cute-W6dMBdAdBgdcObSE5E).
