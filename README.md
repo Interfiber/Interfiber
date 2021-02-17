@@ -9,7 +9,7 @@ I Currenly Know
 
 ## About
 I am Interfiber, Heres some things to know about me
-- 🔭 I’m currently working on [duckduck-theme](https://github.com/Interfiber/duckduck-theme)
+- 🔭 I’m currently working on [duckduck-theme](https://github.com/Interfiber/duckduck-theme) and a side-project
 - 👯 I’m looking to collaborate with other rust programmers
 - 💻 I really like automating things
 - 🥅 Goals: Contribute more to Open Source projects, and collaborate with people
