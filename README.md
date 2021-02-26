@@ -9,7 +9,7 @@ I Currenly Know
 
 ## About
 I am Interfiber, Heres some things to know about me
-- 🔭 I’m currently working on [snowfall.ts](https://github.com/Interfiber/snowfall.ts)
+- 🔭 I’m currently working on [snowfall.ts](https://github.com/Interfiber/snowfall.ts) and [pride-fonts](https://github.com/Interfiber/pride-fonts-wrapper)
 - 👯 I’m looking to collaborate with other rust programmers
 - 💻 I really like automating things
 - 🥅 Goals: Contribute more to Open Source projects, and collaborate with people
