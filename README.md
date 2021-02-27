@@ -2,11 +2,6 @@
 
 I am Interfiber, I make programs and rust crates to make peoples life easier, Heres some stuff about me
 
-## Languages
-I Currenly Know
-
-<img src="https://cdn.svgporn.com/logos/java.svg" height="200" width="200"><img src="https://cdn.svgporn.com/logos/rust.svg" height="200" width="200"><img src="https://cdn.svgporn.com/logos/javascript.svg" height="200" width="200"><img src="https://cdn.svgporn.com/logos/swift.svg" height="200" width="200">
-
 ## About
 I am Interfiber, Heres some things to know about me
 - 🔭 I’m currently working on [snowfall.ts](https://github.com/Interfiber/snowfall.ts) and [pride-fonts](https://github.com/Interfiber/pride-fonts-wrapper)
@@ -15,6 +10,8 @@ I am Interfiber, Heres some things to know about me
 - 🥅 Goals: Contribute more to Open Source projects, and collaborate with people
 - 📬 If you wish to contact me, shoot me a issue over [here](https://github.com/Interfiber/Interfiber/issues)
 - 😄 Pronouns: [they/them](https://pronoun.is/they/.../themselves)
-
+## Stats
+![](https://github-profile-trophy.vercel.app/?username=Interfiber&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=Interfiber)
 #### CREDITS
 The gif is from [here](https://giphy.com/gifs/hello-cross-stitch-cute-W6dMBdAdBgdcObSE5E).
