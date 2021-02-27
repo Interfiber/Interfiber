@@ -11,7 +11,7 @@ I am Interfiber, Heres some things to know about me
 - 📬 If you wish to contact me, shoot me a issue over [here](https://github.com/Interfiber/Interfiber/issues)
 - 😄 Pronouns: [they/them](https://pronoun.is/they/.../themselves)
 ## Stats
-![](https://github-profile-trophy.vercel.app/?username=Interfiber&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=Interfiber)
 ![](https://github-readme-stats.vercel.app/api?username=Interfiber)
 #### CREDITS
 The gif is from [here](https://giphy.com/gifs/hello-cross-stitch-cute-W6dMBdAdBgdcObSE5E).
