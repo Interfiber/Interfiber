@@ -1,4 +1,6 @@
 # 👋 Hi
-I'm ash. And I develop games on roblox, and software.
+Hi, I develop software.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Interfiber)
+![Profile Stats Badge 1](https://github-readme-stats.vercel.app/api/top-langs/?username=Interfiber)
+
+![Profile Stats Badge 2](https://github-readme-stats.vercel.app/api?username=Interfiber)
