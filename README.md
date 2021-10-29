@@ -1,5 +1,4 @@
 # 👋 Hi
 I'm ash. And I develop games on roblox, and software.
 
-## Currently Working on
-[pak](https://interfiber.dev/pak)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Interfiber)
