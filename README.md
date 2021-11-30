@@ -1,7 +1,7 @@
 # 👋 Hi
 Hi, I develop software.
 
-Current Project: [lime](https://github.com/Interfiber/lime.git)
+Current Project: [pak](https://github.com/Interfiber/pak.git)
 
 ![](https://github-profile-trophy.vercel.app/?username=Interfiber)
 
