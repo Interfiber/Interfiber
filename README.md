@@ -1,7 +1,7 @@
 # 👋 Hi
 Hi, I develop software.
 
-Current Project: [firefoxext](https://github.com/Interfiber/fikrefoxext.git)
+Current Project: [firefoxext](https://github.com/Interfiber/firefoxext.git)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Interfiber&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
