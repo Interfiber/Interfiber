@@ -3,9 +3,4 @@ Hi, I develop software.
 
 Current Project: [firefoxext](https://github.com/Interfiber/firefoxext.git)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Interfiber&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![](https://github-profile-trophy.vercel.app/?username=Interfiber)
-
-![Profile Stats Badge 1](https://github-readme-stats.vercel.app/api/top-langs/?username=Interfiber&hide=javascript,html)
-![Profile Stats Badge 2](https://github-readme-stats.vercel.app/api?username=Interfiber)
+![](https://metrics.lecoq.io/Interfiber?template=classic&languages=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=UTC)
