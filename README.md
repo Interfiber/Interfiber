@@ -1,4 +1,4 @@
 # 👋 Hi
 Hi, I develop software.
 
-Current Project: [coredoc](https://github.com/Interfiber/coredoc.git)
+Current Project: [pride-fonts-emoji](https://github.com/Interfiber/pride-fonts-emoji.git)
