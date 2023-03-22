@@ -25,7 +25,7 @@ jobs:
 
           # Options
           user: Interfiber
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
           plugin_code: yes
