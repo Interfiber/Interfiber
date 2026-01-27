@@ -1,5 +1,3 @@
-Current Project: [Fusion](https://github.com/IBAtechSoftware/Fusion)
+# Migrating to Codeberg
 
-![](https://github-profile-trophy.vercel.app/?username=Interfiber&theme=dark)
-
-![](./github-metrics.svg)
+https://codeberg.org/hsta
